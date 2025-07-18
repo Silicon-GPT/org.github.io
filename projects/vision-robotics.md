@@ -13,7 +13,7 @@ We specialize in building intelligent robotic systems that merge **machine visio
 
 <div style="text-align:center;">
   <iframe width="720" height="405"
-          src="https://youtu.be/E6h7wjPL0AY"
+          src="https://www.youtube.com/embed/E6h7wjPL0AY"
           frameborder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen>
