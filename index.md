@@ -3,17 +3,49 @@ layout: home
 title: Welcome to Our Organization
 ---
 
-We are a multi-domain team working at the intersection of:
+# 🌐 Welcome to [Your Organization Name]
 
-🤖 **Vision & Robotics**
-🧠 **AI / Machine Learning**
-🛠️ **Embedded Systems**
-🌐 **Web Platforms**
+> Delivering innovation across **Robotics**, **AI**, **Embedded Systems**, and **Web Platforms**
 
-Explore our projects by category below 👇
+We are a multidisciplinary engineering team focused on building real-world solutions that bridge **hardware** and **intelligence** — from robotic arms and digital twins to AI pipelines and SaaS tools.
 
-### 🔗 Domains
-[Vision & Robotics](projects/vision-robotics.md)
-[AI / ML](projects/ai-ml.md)
-[Embedded Systems](projects/embedded.md)
-[Web Platforms](projects/web.md)
+---
+
+## 🧠 Domains We Work In
+
+### 🤖 Vision & Robotics
+Cutting-edge robotic systems combining machine vision, control theory, and automation.
+
+🔗 [View Projects →](projects/vision-robotics.md)
+
+---
+
+### 🧠 AI / Machine Learning
+Practical and optimized AI models for edge, cloud, and hybrid systems.
+
+🔗 [View Projects →](projects/ai-ml.md)
+
+---
+
+### 🛠️ Embedded Systems
+Custom electronics, firmware, and industrial protocols (CAN, MODBUS, SPI, I2C).
+
+🔗 [View Projects →](projects/embedded.md)
+
+---
+
+### 🌐 Web Platforms
+Admin panels, service managers, and cloud-based dashboards for full-stack control.
+
+🔗 [View Projects →](projects/web.md)
+
+---
+
+## 📣 Get In Touch
+
+📬 Email: contact@your-org.com  
+🌐 Website: [https://your-org.github.io](https://your-org.github.io)
+
+---
+
+© [Your Organization Name] – All rights reserved.
