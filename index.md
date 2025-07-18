@@ -1,7 +1,3 @@
----
-
-layout: home title: SI-GPT
-
 <style>
   .section {
     max-width: 960px;
