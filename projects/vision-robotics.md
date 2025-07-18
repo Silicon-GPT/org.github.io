@@ -12,12 +12,7 @@ We specialize in building intelligent robotic systems that merge **machine visio
 ## 🦾 Robotic Arm Demo
 
 <div style="text-align:center;">
-  <iframe width="720" height="405"
-          src="https://www.youtube.com/embed/E6h7wjPL0AY"
-          frameborder="0"
-          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen>
-  </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E6h7wjPL0AY?si=ESoxcwdufpVKyzkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ---
