@@ -3,7 +3,7 @@ layout: home
 title: Welcome to Our Organization
 ---
 
-# 🌐 Welcome to [Your Organization Name]
+# Welcome to [Your Organization Name]
 
 > Delivering innovation across **Robotics**, **AI**, **Embedded Systems**, and **Web Platforms**
 
@@ -11,40 +11,40 @@ We are a multidisciplinary engineering team focused on building real-world solut
 
 ---
 
-## 🧠 Domains We Work In
+## Domains We Work In
 
-### 🤖 Vision & Robotics
+### Vision & Robotics
 Cutting-edge robotic systems combining machine vision, control theory, and automation.
 
 🔗 [View Projects →](projects/vision-robotics.md)
 
 ---
 
-### 🧠 AI / Machine Learning
+### AI / Machine Learning
 Practical and optimized AI models for edge, cloud, and hybrid systems.
 
 🔗 [View Projects →](projects/ai-ml.md)
 
 ---
 
-### 🛠️ Embedded Systems
+### Embedded Systems
 Custom electronics, firmware, and industrial protocols (CAN, MODBUS, SPI, I2C).
 
 🔗 [View Projects →](projects/embedded.md)
 
 ---
 
-### 🌐 Web Platforms
+### Web Platforms
 Admin panels, service managers, and cloud-based dashboards for full-stack control.
 
 🔗 [View Projects →](projects/web.md)
 
 ---
 
-## 📣 Get In Touch
+## Get In Touch
 
-📬 Email: contact@your-org.com  
-🌐 Website: [https://your-org.github.io](https://your-org.github.io)
+Email: contact@your-org.com  
+Website: [https://your-org.github.io](https://your-org.github.io)
 
 ---
 
