@@ -1,1 +1,9 @@
-
+title: SI-GPT
+description : Robotics | AI | Embedded | Web
+theme: minima
+logo: /assests/images/logo.png
+markddown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  
