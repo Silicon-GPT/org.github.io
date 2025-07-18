@@ -17,22 +17,15 @@ We specialize in building intelligent robotic systems that merge **machine visio
 
 ---
 
-## 📌 Project Description
+This custom 6 Degrees-of-Freedom (DOF) robotic arm was fully designed and developed in-house — from **mechanical CAD** and **control electronics** to **software integration**.
 
-This robotic arm was **designed and built from scratch**, including:
+### 🔧 Key Features:
 
-- Custom-designed mechanical links and joints
-- Precision stepper control with kinematic modeling
-- Vision-based object detection and pick & place
-- Controlled using Python + ROS + microcontroller firmware
-
-It integrates:
-- 🎯 Real-time feedback from vision sensors
-- 📦 Modular control architecture
-- 📡 Remote operation via ROS2 (optional)
-
----
-
+- 🛠️ **6-axis articulated arm** with fully custom mechanical links
+- 👁️ Real-time **vision-guided manipulation**
+- 🧠 Runs **ROS** on **NVIDIA Jetson Nano** for on-board compute
+- 🔗 **CAN bus** communication to interface motor controllers
+  
 ## 🔗 Related Repositories
 
 - [Digital Twin for T3 Robot](https://github.com/your-org/digital-twin-t3)
