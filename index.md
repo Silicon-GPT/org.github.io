@@ -1,41 +1,45 @@
 ---
 layout: home
-title: Welcome to Our Organization
+title: SI-GPT
 ---
 
-# Welcome to [Your Organization Name]
+# Welcome to **SI-GPT**
 
-> Delivering innovation across **Robotics**, **AI**, **Embedded Systems**, and **Web Platforms**
-
-We are a multidisciplinary engineering team focused on building real-world solutions that bridge **hardware** and **intelligence** — from robotic arms and digital twins to AI pipelines and SaaS tools.
+> _We design and build futuristic systems across **Robotics**, **AI**, **Embedded**, and **Web Platforms**._
 
 ---
 
-## Domains We Work In
+## Who We Are
 
-### Vision & Robotics
-Cutting-edge robotic systems combining machine vision, control theory, and automation.
+We are a multidisciplinary engineering team crafting solutions that blend **hardware precision** and **software intelligence** — from 6 DOF robotic arms and digital twins to edge AI pipelines and control dashboards.
+
+---
+
+## What We Do
+
+### **Vision & Robotics**
+Design and deployment of intelligent robotic systems combining real-time vision, control theory, and motion planning.
 
 🔗 [View Projects →](projects/vision-robotics.md)
 
 ---
 
-### AI / Machine Learning
-Practical and optimized AI models for edge, cloud, and hybrid systems.
+### **AI / Machine Learning**
+Optimized deep learning models for edge, cloud, and hybrid infrastructures — from CNNs to transformers.
 
 🔗 [View Projects →](projects/ai-ml.md)
 
 ---
 
-### Embedded Systems
-Custom electronics, firmware, and industrial protocols (CAN, MODBUS, SPI, I2C).
+### **Embedded Systems**
+Custom boards, firmware, and low-level industrial protocols (CAN, MODBUS, SPI, I2C).
 
 🔗 [View Projects →](projects/embedded.md)
 
 ---
 
-### Web Platforms
-Admin panels, service managers, and cloud-based dashboards for full-stack control.
+### **Web Platforms**
+Modern UIs and admin dashboards to control, monitor, and manage hardware and services in real time.
 
 🔗 [View Projects →](projects/web.md)
 
@@ -43,9 +47,11 @@ Admin panels, service managers, and cloud-based dashboards for full-stack contro
 
 ## Get In Touch
 
-Email: contact@your-org.com  
-Website: [https://your-org.github.io](https://your-org.github.io)
+Email: `contact@your-org.com`  
+Web: [your-org.github.io](https://your-org.github.io)
 
 ---
 
-© [Your Organization Name] – All rights reserved.
+<div align="center">
+  🚀 _Made with passion by SI-GPT_
+</div>
